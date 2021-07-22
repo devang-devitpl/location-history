@@ -19,5 +19,6 @@ The API key created dialog displays your newly created API key.
 Click Close.
 1. The new API key is listed on the Credentials page under API keys.
 (Remember to restrict the API key before using it in production.)
+1. Enable Places API from console for the selected project.
 1. Copy the API key and paste it in the `AppDelegate.swift` file by replacing `YOUR_API_KEY`.
 
