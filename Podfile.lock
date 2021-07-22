@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.4.3)
+  - GoogleMaps (5.0.0):
+    - GoogleMaps/Maps (= 5.0.0)
+  - GoogleMaps/Base (5.0.0)
+  - GoogleMaps/Maps (5.0.0):
+    - GoogleMaps/Base
+  - IQKeyboardManagerSwift (6.5.6)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - ObjectMapper (4.2.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - IQKeyboardManagerSwift
+  - Moya
+  - ObjectMapper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - IQKeyboardManagerSwift
+    - Moya
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  GoogleMaps: 600e5e69bdf7f4ed7cac4d6aa96c7ec08a5aa254
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+
+PODFILE CHECKSUM: fb7bbac5c160a9aa6eaeef1f9799ae6ad01500fc
+
+COCOAPODS: 1.10.1
